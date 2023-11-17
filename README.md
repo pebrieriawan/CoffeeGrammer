@@ -25,7 +25,7 @@ CoffeeGrammer berkomitmen untuk memberikan pengalaman tak terlupakan kepada seti
 ### Page Menu
    ![Page Menu](Screenshot/Screenshot-Page-Menu.png)
 <br>
-### Booking
+### Page Booking
    ![Page Booking](Screenshot/Screenshot-Page-Booking.png)
 
 
