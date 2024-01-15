@@ -6,7 +6,7 @@
     <title>CoffeeGrammer</title>
 
     <!-- Favicon Link -->
-    <link rel="icon" href="/image/favicon-logo.png" type="image/x-icon" />
+    <link rel="icon" href="image/favicon-logo.png" type="image/x-icon" />
 
     <!-- CSS File Link  -->
     <link rel="stylesheet" href="css/style.css" />
@@ -164,21 +164,14 @@
     <section id="booking">
       <h1 class="heading">booking <span>reserve a table</span></h1>
 
-      <form action="">
-        <input type="text" placeholder="Name" class="box" required />
-        <input type="email" placeholder="Email" class="box" required />
-        <input type="number" placeholder="Number" class="box" required />
-        <input type="date" class="box" required />
-        <textarea
-          name=""
-          placeholder="Message"
-          class="box"
-          id=""
-          cols="30"
-          rows="10"
-        ></textarea>
+      <form action="php/process_reservation.php" method="POST">
+        <input type="text" name="name" placeholder="Name" class="box" required />
+        <input type="email" name="email" placeholder="Email" class="box" required />
+        <input type="number" name="number" placeholder="Phone Number" class="box" required />
+        <input type="date" name="date" class="box" required />
+        <textarea name="message" placeholder="Message" class="box" id="" cols="30" rows="10"></textarea>
         <input type="submit" value="send message" class="button" />
-      </form>
+      </form>    
     </section>
 
     <!-- FOOTER -->
@@ -187,6 +180,6 @@
     </section>
 
     <!-- JS File Link  -->
-    <script src="js/script.js"></script>
+    <script src="js/script_validation.js"></script>
   </body>
 </html>
