@@ -15,6 +15,15 @@ CoffeeGrammer berkomitmen untuk memberikan pengalaman tak terlupakan kepada seti
 
 <br>
 
+## System Design
+### ERD dan Struktur Tabel
+   ![System Design](System-Design/ERD-dan-Struktur-Tabel.png)
+<br>
+### Class-Diagram
+   ![System Design](System-Design/Class-Diagram.png)
+
+<br>
+
 ## Struktur Halaman
 ### Page Home
    ![Page Home](Screenshot/Screenshot-Page-Home.png)
@@ -28,5 +37,9 @@ CoffeeGrammer berkomitmen untuk memberikan pengalaman tak terlupakan kepada seti
 ### Page Booking
    ![Page Booking](Screenshot/Screenshot-Page-Booking.png)
 
+<br>
+
+## Data Dummy Database
+   ![Data Dummy](Screenshot/Data-Dummy.png)
 
 Terima kasih telah mengunjungi CoffeeGrammer! ☕💻
