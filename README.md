@@ -16,30 +16,30 @@ CoffeeGrammer berkomitmen untuk memberikan pengalaman tak terlupakan kepada seti
 <br>
 
 ## System Design
-### ERD dan Struktur Tabel
+### 1. ERD dan Struktur Tabel
    ![System Design](System-Design/ERD-dan-Struktur-Tabel.png)
 <br>
-### Class-Diagram
+### 2. Class-Diagram
    ![System Design](System-Design/Class-Diagram.png)
 
 <br>
 
 ## Struktur Halaman
-### Page Home
+### 1. Page Home
    ![Page Home](Screenshot/Screenshot-Page-Home.png)
 <br>
-### Page About
+### 2. Page About
    ![Page About](Screenshot/Screenshot-Page-About.png)
 <br>
-### Page Menu
+### 3. Page Menu
    ![Page Menu](Screenshot/Screenshot-Page-Menu.png)
 <br>
-### Page Booking
+### 4. Page Booking
    ![Page Booking](Screenshot/Screenshot-Page-Booking.png)
 
 <br>
 
-## Data Dummy Database
+### Data Dummy Database
    ![Data Dummy](Screenshot/Data-Dummy.png)
 
 Terima kasih telah mengunjungi CoffeeGrammer! ☕💻
