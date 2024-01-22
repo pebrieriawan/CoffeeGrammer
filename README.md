@@ -9,9 +9,9 @@ CoffeeGrammer berkomitmen untuk memberikan pengalaman tak terlupakan kepada seti
 
 ## Pengalaman Pengguna yang Diharapkan
 - Navigasi Mudah: Pengguna diharapkan dapat dengan mudah menjelajahi halaman website menggunakan menu navigasi yang terletak di bagian atas.
-- Informasi yang Jelas: Setiap bagian halaman menyajikan informasi dengan jelas, termasuk menu kopi, informasi tentang kafe, dan formulir pemesanan.
+- Informasi yang Jelas: Setiap bagian halaman menyajikan informasi dengan jelas, termasuk menu kopi, informasi tentang kafe, dan formulir untuk reservasi tempat.
 - Desain yang Menarik: Desain website dirancang agar menarik perhatian pengunjung terutama mereka yang menyukai kopi dan dunia pemrograman.
-- Pemesanan yang Mudah: Formulir pemesanan dirancang sederhana untuk memudahkan pengunjung dalam melakukan reservasi.
+- Reservasi tempat yang Mudah: Formulir reservasi dirancang sederhana untuk memudahkan pengunjung dalam melakukan reservasi.
 
 <br>
 
