@@ -21,5 +21,32 @@ class reservation {
             return false;
         }
     }
+
+    public function getAllReservations() {
+        $result = $this->conn->query("SELECT * FROM form_reservation");
+        $reservations = [];
+    
+        while ($row = $result->fetch_assoc()) {
+            $reservations[] = $row;
+        }
+    
+        return $reservations;
+    }
+    
+    public function deleteReservation($reservation_id) {
+    $stmt = $this->conn->prepare("DELETE FROM form_reservation WHERE reservation_id = ?");
+    $stmt->bind_param("i", $reservation_id);
+
+    if ($stmt->execute()) {
+        $stmt->close();
+        return true;
+    } else {
+        $stmt->close();
+        // Tampilkan pesan kesalahan
+        echo "Error: " . $this->conn->error;
+        return false;
+    }
+}
+    
 }
 ?>
