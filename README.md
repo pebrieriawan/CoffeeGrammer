@@ -39,7 +39,7 @@ CoffeeGrammer berkomitmen untuk memberikan pengalaman tak terlupakan kepada seti
 
 <br>
 
-### Data Dummy Database
-   ![Data Dummy](Screenshot/Data-Dummy.png)
+### Admin Panel Website CofeeGrammer
+   ![Admin](Screenshot/Screenshot-Panel-Admin.png)
 
 Terima kasih telah mengunjungi CoffeeGrammer! ☕💻
