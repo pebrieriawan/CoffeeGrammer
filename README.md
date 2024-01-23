@@ -23,7 +23,7 @@ CoffeeGrammer berkomitmen untuk memberikan pengalaman tak terlupakan kepada seti
 ### Back-End:
 - <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=plastic&logo=PHP&logoColor=white" alt="PHP" align="center"> : Digunakan sebagai bahasa pemrograman server untuk memproses logika dan mengakses database.
 ### Database:
-- <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" alt="MySql" align="center"> : Sistem manajemen basis data yang digunakan untuk menyimpan dan mengelola data terkait dengan CoffeeGrammer.
+- <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" alt="MySql" align="center"> : Digunakan untuk menyimpan dan mengelola data terkait dengan CoffeeGrammer.
 
 <br>
 
